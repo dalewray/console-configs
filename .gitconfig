@@ -1,0 +1,5 @@
+[user]
+    name = Dale Wray
+    email = 
+[core]
+    editor = vim -c 'startinsert'
